@@ -3,7 +3,6 @@ description: $description
 version: '${version}'
 
 main: com.carloscapo.forceSpawn.ForceSpawn
-paper-plugin-loader: com.carloscapo.forceSpawn.ForceSpawnLoader
 api-version: '26.3'
 load: POSTWORLD
 
