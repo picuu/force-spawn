@@ -8,3 +8,8 @@ load: POSTWORLD
 
 authors: [ Picuu ]
 website: https://github.com/picuu/force-spawn
+
+permissions:
+  fspawn.admin:
+    description: Allows configuring ForceSpawn
+    default: op
